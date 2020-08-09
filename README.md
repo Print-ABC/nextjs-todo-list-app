@@ -1,4 +1,4 @@
-## Next.JS webapp: To-Do List
+# Next.JS webapp: To-Do List
 
 Technical coding assignment given by [Hackwagon Academy](https://hackwagon.com/) for junior frontend developer job
 
@@ -19,3 +19,13 @@ yarn dev
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+
+## Given Scenario
+
+### Your objective:
+Write a To-Do list application to show off simple CRUD.
+
+### Requirements:
+This is pretty much a free-style question, however, we would prefer if you used React + TypeScript.
+
+Use any `npm` package of your choice.
